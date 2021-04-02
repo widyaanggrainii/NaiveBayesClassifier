@@ -2,6 +2,7 @@ NaiveBayesClassifier
 ====================
 
 Implementation of Multinomial Naive Bayes Text Classifier.
+Algoritma Naive Bayes merupakan sebuah klasifikasi menggunakan suatu metede probabilitas dan statik yang ditemukan seseorang ilmuan Inggris Thomas Bayes. 
 
 For more information concerning the Machine Learning model check out:
 
